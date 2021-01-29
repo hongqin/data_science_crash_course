@@ -11,6 +11,6 @@ Part 3. Survey data analysis with R and RStudio
 
 Part 4. Python COVID19 analysis with Python in CoLab
 
-Part 4. Python MINIST tensorflow in CoLab
+Part 5. Python MINIST tensorflow in CoLab
 
 
