@@ -1,7 +1,7 @@
 # data_science_crash_course
 R and Python bootcamp 
 
-January 30, 2021
+January 31, 2021, Sunday
 
 Part 1. COVID19 analysis with R in CoLab. 
 
