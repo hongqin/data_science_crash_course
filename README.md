@@ -2,11 +2,11 @@
 
 # January 31, 2021, Sunday
 
-CoLab-R-notebook: http://colab.fan/r
-CoLab-Python-notebook: https://colab.research.google.com/notebooks/intro.ipynb 
-R: https://www.r-project.org/ 
-RStudio: https://rstudio.com/ (R need to be installed before RStudio)
-Anaconda with Jupyter-notebook: https://www.anaconda.com/ 
+CoLab-R-notebook: http://colab.fan/r <br> 
+CoLab-Python-notebook: https://colab.research.google.com/notebooks/intro.ipynb  <br> 
+R: https://www.r-project.org/  <br> 
+RStudio: https://rstudio.com/ (R need to be installed before RStudio) <br> 
+Anaconda with Jupyter-notebook: https://www.anaconda.com/ <br> 
 
 # Part 1. COVID19 analysis with R in CoLab. 
 https://github.com/hongqin/data_science_crash_course/blob/main/1.CoLab-R-COVID/R_covid19_sandbox.ipynb 
