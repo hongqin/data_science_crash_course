@@ -52,7 +52,7 @@ tb_daily$date = mdy( row.names(tb_daily) )
   local_cases = tbCounty[, c("date", "Hamilton, Tennessee, US")]
   names( local_cases ) = c("date", "confirm")
   
-  local_cases <- local_cases %>% dplyr::filter( between(date, mdy('6/1/2020'), mdy('1/19/2021')))
+  local_cases <- local_cases %>% dplyr::filter( between(date, mdy('6/15/2020'), mdy('1/29/2021')))
   local_cases$confirm[  local_cases$confirm < 0 ] = 0
   
   reporting_delay <- bootstrapped_dist_fit(rlnorm(100, log(4), 1), max_value = 30)
